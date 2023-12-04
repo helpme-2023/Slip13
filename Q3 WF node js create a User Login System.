@@ -1,7 +1,6 @@
  Using node js create a User Login System.  
 
-npm init -y
-npm install express mongoose body-parser express-session bcrypt
+npm install express
 
 const express = require('express');
 const passport = require('passport');
